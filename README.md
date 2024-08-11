@@ -1,1 +1,1 @@
-# account-update
+# A simple chatting application for Desktop using java and socket programming in javax.swing
